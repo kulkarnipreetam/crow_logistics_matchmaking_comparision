@@ -1,9 +1,11 @@
 # Matchmaking In Crowd-Shipping Platforms: The Effects Of Mediator Control
 ## Abstract:
-A critical design decision for crowdsourcing platforms is the degree to which the platform mediator controls participant interactions. Platforms having a centralized model of mediation optimize for convenience, speed, and security in participant interactions, while platforms operating under decentralized control require greater user effort but offer them greater control and agency. The research described in this paper is a preliminary study using agent-based modeling to evaluate and compare the performance of crowd-shipping platforms with centralized/decentralized control over matchmaking of carriers and senders. Results indicate that centralized matchmaking protects the platform from premature failure when initial carrier/sender participation is low. Furthermore, when the platform’s assignment algorithm is designed to maximize platform revenue, subject to meeting carriers’ profit expectations, centralized matchmaking will tend to outperform decentralized matchmaking for both the mediator and the carriers.
+<p align="justify"> A critical design decision for crowdsourcing platforms is the degree to which the platform mediator controls participant interactions. Platforms having a centralized model of mediation optimize for convenience, speed, and security in participant interactions, while platforms operating under decentralized control require greater user effort but offer them greater control and agency. The research described in this paper is a preliminary study using agent-based modeling to evaluate and compare the performance of crowd-shipping platforms with centralized/decentralized control over matchmaking of carriers and senders. Results indicate that centralized matchmaking protects the platform from premature failure when initial carrier/sender participation is low. Furthermore, when the platform’s assignment algorithm is designed to maximize platform revenue, subject to meeting carriers’ profit expectations, centralized matchmaking will tend to outperform decentralized matchmaking for both the mediator and the carriers. </p>
+
 ## Citation
 Kulkarni, P., & Krejci, C. C. (2023, December). Matchmaking In Crowd-Shipping Platforms: The Effects Of Mediator Control.
 In _2023 Winter Simulation Conference (WSC)_ (pp. 303-314). IEEE.
+
 ## URL
 https://ieeexplore.ieee.org/abstract/document/10407822
 
